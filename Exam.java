@@ -112,5 +112,5 @@ public class Exam{
 		SUMMER , WINTER , SPRING , RAINY;
 	}
 	enum Weather{
-		HOT , COLD ,NEW, DRIZZLING;
+		HOT , COLD ,DRIZZLING;
 	}
