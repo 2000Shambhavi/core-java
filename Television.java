@@ -5,7 +5,7 @@ public static void main(String args[]){
 	String resolution=("1080p");
 	String operatingSystem=("Android OS");
 	String screenType=("flat-panel LCD");
-	String speaker=("DolbyDogital");
+	String speaker=("DolbyDigital");
 	String design=("NeoQUALED");
 	String model=("Sony Bravia");
 	String color=("Black");
